@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gerslasa.github.io/sitemap
+Sitemap: https://gerslasa.github.io/app/sitemap
+Sitemap: https://gerslasa.github.io/assets/sitemap
+Sitemap: https://gerslasa.github.io/css/sitemap
+Sitemap: https://gerslasa.github.io/includes/sitemap
+Sitemap: https://gerslasa.github.io/item/sitemap
+Sitemap: https://gerslasa.github.io/src/sitemap
